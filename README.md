@@ -1,2 +1,2 @@
-# ML_Final_Project
-Conversation Sentiment Analysis
+# Conversation_Sentiment_Analysis
+Final Project for Machine Learning : By Kaivan Khazeni and Sahith Jampala
